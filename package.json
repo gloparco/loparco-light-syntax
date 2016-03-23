@@ -1,0 +1,16 @@
+{
+  "name": "loparco-light-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A light syntax theme that's easy on the eyes",
+  "keywords": [
+    "syntax",
+    "light",
+    "theme"
+  ],
+  "repository": "https://github.com/gloparco/loparco-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
